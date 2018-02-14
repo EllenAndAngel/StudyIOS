@@ -1,3 +1,3 @@
 # StudyIOS
 
-Try to learn swift 
+learn swift 
