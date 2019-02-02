@@ -12,7 +12,6 @@
 		9B3C1C971FBA30D100D926F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1C951FBA30D100D926F3 /* Main.storyboard */; };
 		9B3C1C991FBA30D100D926F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1C981FBA30D100D926F3 /* Assets.xcassets */; };
 		9B3C1C9C1FBA30D100D926F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1C9A1FBA30D100D926F3 /* LaunchScreen.storyboard */; };
-		9B3C1CA41FBA312400D926F3 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9B3C1CA31FBA312400D926F3 /* Inceptionv3.mlmodel */; };
 		9B3C1CA61FBA36BC00D926F3 /* banana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CA51FBA36BC00D926F3 /* banana.jpg */; };
 		9B3C1CAA1FBA370800D926F3 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CA71FBA370700D926F3 /* dog.jpg */; };
 		9B3C1CAB1FBA370800D926F3 /* rat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CA81FBA370700D926F3 /* rat.jpg */; };
@@ -23,8 +22,9 @@
 		9B3C1CB61FBA478A00D926F3 /* horse.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CB11FBA478900D926F3 /* horse.jpeg */; };
 		9B3C1CB71FBA478A00D926F3 /* mackerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CB21FBA478A00D926F3 /* mackerel.jpg */; };
 		9B3C1CB81FBA478A00D926F3 /* puppy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CB31FBA478A00D926F3 /* puppy.jpg */; };
-		9B3C1CBA1FBA4BDA00D926F3 /* IMG_2540.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CB91FBA4BDA00D926F3 /* IMG_2540.jpg */; };
+		9B3C1CBA1FBA4BDA00D926F3 /* punet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CB91FBA4BDA00D926F3 /* punet.jpg */; };
 		9B3C1CBC1FBA4C7400D926F3 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B3C1CBB1FBA4C7400D926F3 /* icon.png */; };
+		9BEE711320270C4500DDD4DD /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9BEE711220270C4500DDD4DD /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +35,6 @@
 		9B3C1C981FBA30D100D926F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B3C1C9B1FBA30D100D926F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B3C1C9D1FBA30D100D926F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9B3C1CA31FBA312400D926F3 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../Inceptionv3.mlmodel; sourceTree = "<group>"; };
 		9B3C1CA51FBA36BC00D926F3 /* banana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = banana.jpg; sourceTree = "<group>"; };
 		9B3C1CA71FBA370700D926F3 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog.jpg; sourceTree = "<group>"; };
 		9B3C1CA81FBA370700D926F3 /* rat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rat.jpg; sourceTree = "<group>"; };
@@ -46,8 +45,9 @@
 		9B3C1CB11FBA478900D926F3 /* horse.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = horse.jpeg; sourceTree = "<group>"; };
 		9B3C1CB21FBA478A00D926F3 /* mackerel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mackerel.jpg; sourceTree = "<group>"; };
 		9B3C1CB31FBA478A00D926F3 /* puppy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puppy.jpg; sourceTree = "<group>"; };
-		9B3C1CB91FBA4BDA00D926F3 /* IMG_2540.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_2540.jpg; sourceTree = "<group>"; };
+		9B3C1CB91FBA4BDA00D926F3 /* punet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = punet.jpg; sourceTree = "<group>"; };
 		9B3C1CBB1FBA4C7400D926F3 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		9BEE711220270C4500DDD4DD /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../../../temp/ImageRecognitionCoreML/ImageRecognitionCoreML/Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,10 +80,11 @@
 		9B3C1C901FBA30D100D926F3 /* ImageRecognition */ = {
 			isa = PBXGroup;
 			children = (
-				9B3C1CA31FBA312400D926F3 /* Inceptionv3.mlmodel */,
 				9B3C1C911FBA30D100D926F3 /* AppDelegate.swift */,
+				9BEE711220270C4500DDD4DD /* Inceptionv3.mlmodel */,
 				9B3C1CA51FBA36BC00D926F3 /* banana.jpg */,
 				9B3C1CA91FBA370800D926F3 /* cat.jpg */,
+				9B3C1CB91FBA4BDA00D926F3 /* punet.jpg */,
 				9B3C1CB01FBA478900D926F3 /* a1.jpeg */,
 				9B3C1CB11FBA478900D926F3 /* horse.jpeg */,
 				9B3C1CB21FBA478A00D926F3 /* mackerel.jpg */,
@@ -95,7 +96,6 @@
 				9B3C1C951FBA30D100D926F3 /* Main.storyboard */,
 				9B3C1C981FBA30D100D926F3 /* Assets.xcassets */,
 				9B3C1CBB1FBA4C7400D926F3 /* icon.png */,
-				9B3C1CB91FBA4BDA00D926F3 /* IMG_2540.jpg */,
 				9B3C1C9A1FBA30D100D926F3 /* LaunchScreen.storyboard */,
 				9B3C1C9D1FBA30D100D926F3 /* Info.plist */,
 				9B3C1CAD1FBA419200D926F3 /* UIImage+Additions.swift */,
@@ -164,7 +164,7 @@
 			files = (
 				9B3C1CB51FBA478A00D926F3 /* a1.jpeg in Resources */,
 				9B3C1C9C1FBA30D100D926F3 /* LaunchScreen.storyboard in Resources */,
-				9B3C1CBA1FBA4BDA00D926F3 /* IMG_2540.jpg in Resources */,
+				9B3C1CBA1FBA4BDA00D926F3 /* punet.jpg in Resources */,
 				9B3C1CAA1FBA370800D926F3 /* dog.jpg in Resources */,
 				9B3C1CB61FBA478A00D926F3 /* horse.jpeg in Resources */,
 				9B3C1C991FBA30D100D926F3 /* Assets.xcassets in Resources */,
@@ -187,8 +187,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B3C1C941FBA30D100D926F3 /* ViewController.swift in Sources */,
+				9BEE711320270C4500DDD4DD /* Inceptionv3.mlmodel in Sources */,
 				9B3C1CAE1FBA419200D926F3 /* UIImage+Additions.swift in Sources */,
-				9B3C1CA41FBA312400D926F3 /* Inceptionv3.mlmodel in Sources */,
 				9B3C1C921FBA30D100D926F3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

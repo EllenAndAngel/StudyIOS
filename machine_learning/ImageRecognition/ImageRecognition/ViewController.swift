@@ -13,11 +13,11 @@ class ViewController: UIViewController {
     @IBOutlet weak var ivPicture: UIImageView!
     @IBOutlet weak var lbTitle: UILabel!
     
-    private var model:Inceptionv3=Inceptionv3()
+    private var model : Inceptionv3 = Inceptionv3()
     
     let images = ["cat.jpg","dog.jpg","rat.jpg","banana.jpg",
                   "puppy.jpg","rabbit.jpg","mackerel.jpg",
-                  "horse.jpeg","a1.jpeg"]
+                  "horse.jpeg","a1.jpeg","punet.jpg"]
     var index = 0
     
     
@@ -47,6 +47,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
     override func didReceiveMemoryWarning() {

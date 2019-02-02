@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "94352e35600c6652c29e98cde50d381f"
+build_time: [1533884154, 49449000]
+inputs:
+  "/Users/ellen/GitHub/StudyIOS/user-registration/UserRegistrationExample/RegisterUserViewController.swift": !dirty [1519709582, 0]
+  "/Users/ellen/GitHub/StudyIOS/user-registration/UserRegistrationExample/ViewController.swift": !dirty [1519709582, 0]
+  "/Users/ellen/GitHub/StudyIOS/user-registration/UserRegistrationExample/AppDelegate.swift": !dirty [1519709582, 0]
+  "/Users/ellen/GitHub/StudyIOS/user-registration/UserRegistrationExample/HomePageViewController.swift": !dirty [1519709582, 0]
+  "/Users/ellen/GitHub/StudyIOS/user-registration/UserRegistrationExample/SignInViewController.swift": !dirty [1519709582, 0]
